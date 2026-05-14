@@ -9,24 +9,25 @@ Custom Odoo 19 module for sales management. Features computed field for instant 
 - Debian 12 / WinSCP / PyCharm
 
 ## 📂 Project structure (arborescence)
+
 odoo19-sales-ca-module/
 ├── README.md
 ├── docs/
-│ ├── rapport.pdf
-│ └── screenshots/
-│ ├── odoo_form.png
-│ ├── odoo_list.png
-│ ├── powerbi_dashboard.png
-│ ├── odbc_config.png
-│ └── vm_status.png
+│   ├── rapport.pdf
+│   └── screenshots/
+│       ├── odo_form.png
+│       ├── odo_list.png
+│       ├── powerbi_dashboard.png
+│       ├── odbc_config.png
+│       └── vm_status.png
 └── code/
-└── ventes/ # module Odoo
-├── manifest.py
-├── models.py
-├── views.xml
-├── security/
-│ └── ir.model.access.csv
-└── init.py
+    └── ventes/
+        ├── __manifest__.py
+        ├── models.py
+        ├── views.xml
+        ├── __init__.py
+        └── security/
+            └── ir.model.access.csv
 
 ## 🚀 Installation
 1. Copy `code/ventes/` into `/usr/lib/python3/dist-packages/odoo/addons/`
