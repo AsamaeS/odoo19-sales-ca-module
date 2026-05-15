@@ -19,7 +19,6 @@ Custom Odoo 19 module for sales management. Features computed field for instant 
 3. Activate "Compta CA" from Apps
 
 ## 📸 Screenshots
-Place your screenshots inside `docs/screenshots/` and link them:
 ![Odoo form](docs/screenshots/odoo_form.png)
 ![Power BI dashboard](docs/screenshots/powerbi_dashboard.png)
 ![Odoo CA](docs/screenshots/odoo_CA.png)
