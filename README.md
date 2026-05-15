@@ -12,10 +12,6 @@ Custom Odoo 19 module for sales management. Features computed field for instant 
 
 ![Arborescence du module](docs/screenshots/Arborescence%20du%20module.png)
 
-## 📸 Screenshots
-![Odoo CA](docs/screenshots/odoo_CA.png)
-![Power BI dashboard](docs/screenshots/powerbi_dashboard.png)
-![ODBC config](docs/screenshots/odbc_config.png)
 
 ## 🚀 Installation
 1. Copy `code/ventes/` into `/usr/lib/python3/dist-packages/odoo/addons/`
@@ -26,6 +22,9 @@ Custom Odoo 19 module for sales management. Features computed field for instant 
 Place your screenshots inside `docs/screenshots/` and link them:
 ![Odoo form](docs/screenshots/odoo_form.png)
 ![Power BI dashboard](docs/screenshots/powerbi_dashboard.png)
+![Odoo CA](docs/screenshots/odoo_CA.png)
+![ODBC config](docs/screenshots/odbc_config.png)
+
 
 ## 👤 Author
 Asmae SERJI – Academic project supervised by Pr. Abdellah ZAOUIA
